@@ -1,0 +1,43 @@
+{
+  "projetos": [
+    {
+        "id": 1,
+        "nome": "Carlos Mendes - Exemplo",
+        "projeto": "Sistema de Estacionamento",
+        "github": "https://github.com/andreluiz901/cartwave_payment_api",
+        "video": "https://www.youtube.com/watch?v=aj5JAaHoIGM",
+        "thumb": "thumbs/example.png",
+        "descricao": "Sistema completo para gestão de estacionamentos com reconhecimento de placas"
+    },
+    {
+        "id": 2,
+        "nome": "Ana Paula Souza - Exemplo",
+        "projeto": "App de Entregas",
+        "github": "https://github.com/andreluiz901/cartwave_payment_api",
+        "video": "https://www.youtube.com/watch?v=aj5JAaHoIGM",
+        "thumb": "thumbs/example.png",
+        "descricao": "Aplicativo mobile para rastreamento de entregas em tempo real"
+    },
+    {
+        "id": 3,
+        "nome": "Roberto Silva - Exemplo",
+        "projeto": "Dashboard Financeiro",
+        "github": "https://github.com/andreluiz901/cartwave_payment_api",
+        "video": "https://www.youtube.com/watch?v=aj5JAaHoIGM",
+        "thumb": "thumbs/example.png",
+        "descricao": "Dashboard interativo para análise de dados financeiros"
+    },
+    {
+        "id": 4,
+        "nome": "João Silva - Exemplo Sem video e thumb",
+        "projeto": "Site Pessoal",
+        "github": "https://github.com/joao/site-pessoal",
+        "video": "", 
+        "thumb": "",
+        "descricao": "Portfólio pessoal"
+    }
+    
+],
+  "finalistas": []
+}
+
