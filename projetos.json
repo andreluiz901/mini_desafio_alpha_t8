@@ -26,8 +26,25 @@
         "video": "https://youtu.be/rISXvucTfAA",
         "thumb": "thumbs/sabrina_souza.png",
         "descricao": "O Sunnyside é um projeto fictício de uma landing page moderna desenvolvida como parte de um desafio de front-end. O objetivo principal é simular a presença digital de uma agência criativa, destacando serviços de branding, design e comunicação visual de forma atrativa."
-    }
-        
+    },
+    {
+        "id": 4,
+        "nome": "Marcos Vinicius Araujo Silva",
+        "projeto": "Dragon House",
+        "github": "https://github.com/viniciussilva512/dragonhouse-landing-page",
+        "video": "https://www.youtube.com/watch?v=BrZBEpxmAzY",
+        "thumb": "thumbs/marcos_vinicius.png",
+        "descricao": "Aplicativo web ficticio para adoção de dragões."
+    },
+    {
+        "id": 5,
+        "nome": "Maria Clara da Silva Fernandes",
+        "projeto": "Nature Life",
+        "github": "https://github.com/mclarasfernades-beep/nature-life",
+        "video": "https://youtu.be/6r9RGR2PRCc",
+        "thumb": "thumbs/maria_clara.png",
+        "descricao": "Nature Life é uma landing page responsiva inspirada em um layout do Pinterest, desenvolvida utilizando HTML e CSS. O projeto aplica conceitos como Flexbox, Media Queries, menu hambúrguer, variáveis CSS, hover, transition, transform, filter, box-shadow e border-radius, proporcionando uma interface moderna, organizada e adaptável a diferentes tamanhos de tela."
+    }        
 ],
   "finalistas": []
 }
