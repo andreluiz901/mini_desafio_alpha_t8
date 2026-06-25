@@ -80,7 +80,16 @@
         "video": "https://youtu.be/nHdBvQdBZi0",
         "thumb": "thumbs/kayo_alves.png",
         "descricao": "É o site mais responsivo do mundo."
-    }          
+    },
+    {
+        "id": 10,
+        "nome": "Joas Jones Sousa de Medeiros",
+        "projeto": "JJSMTECH",
+        "github": "https://github.com/jjonessousa-netizen/projeto-css/",
+        "video": "",
+        "thumb": "thumbs/joas_jones.png",
+        "descricao": "É um site para me linkar os conteúdos estudados até aqui "
+    }           
 ],
   "finalistas": []
 }
