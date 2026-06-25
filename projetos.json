@@ -53,7 +53,16 @@
         "video": "https://youtu.be/ftGXWgG67rY",
         "thumb": "thumbs/rodrigo_pereira.png",
         "descricao": "A proposta foi reaproveitar a estrutura de uma landing page/portfólio e transformá-la de forma criativa em uma página de tributo à Seleção Brasileira de Futebol, celebrando nossos 5 títulos mundiais e a história do futebol arte. Tudo isso respeitando as regras do desafio: utilizando estritamente os conhecimentos de HTML e CSS vistos em aula."
-    }        
+    },
+    {
+        "id": 7,
+        "nome": "Geana Mossal Nunes de Almeida",
+        "projeto": "Ecommerce loja de roupa",
+        "github": "https://github.com/Geana-Almeida/Petal-E-Pearl-EcommerceRoupa-FrontEnd",
+        "video": "https://youtu.be/tFJyzDRjBqo",
+        "thumb": "thumbs/geana_almeida.png",
+        "descricao": "Web site de ecommerce de roupas e acessorios sofisticado"
+    }          
 ],
   "finalistas": []
 }
