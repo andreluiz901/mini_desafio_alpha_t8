@@ -71,6 +71,15 @@
         "video": "",
         "thumb": "thumbs/cesar_augusto.png",
         "descricao": "AlphaFlix é uma landing page inspirada em plataformas de streaming"
+    },
+    {
+        "id": 9,
+        "nome": "Kayo Alves",
+        "projeto": "O Site Mais Responsivo do Mundo.",
+        "github": "https://github.com/kayo-alves/css-challenge",
+        "video": "https://youtu.be/nHdBvQdBZi0",
+        "thumb": "thumbs/kayo_alves.png",
+        "descricao": "É o site mais responsivo do mundo."
     }          
 ],
   "finalistas": []
