@@ -89,7 +89,16 @@
         "video": "",
         "thumb": "thumbs/joas_jones.png",
         "descricao": "É um site para me linkar os conteúdos estudados até aqui "
-    }           
+    },
+    {
+        "id": 11,
+        "nome": "Pedro Henrrique Belo Barbosa",
+        "projeto": "Trend (loja de roupas online)",
+        "github": "https://github.com/pedrobelobarbosa/TREND-para-desafio.git",
+        "video": "",
+        "thumb": "thumbs/pedro_henrique.png",
+        "descricao": "Uma loja de roupas estilo street."
+    }            
 ],
   "finalistas": []
 }
