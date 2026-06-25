@@ -8,7 +8,17 @@
         "video": "https://youtu.be/EwZVK8elOVA",
         "thumb": "thumbs/andre_luiz.png",
         "descricao": "Criei uma landing page de um fotógrafo fictício chamado André Luiz."
-    }    
+    },
+    {
+        "id": 2,
+        "nome": "Alexandre Gomes Camelo",
+        "projeto": "Landing page AX Motors",
+        "github": "https://github.com/AlexandreGomes08/projeto-alpha-desafio.git",
+        "video": "https://youtu.be/PryfsEN2GcQ?si=rcBD2wnXtnseM7xV",
+        "thumb": "thumbs/alexandre_gomes.png",
+        "descricao": "Landing page de carros da Toyota responsivo"
+    }
+        
 ],
   "finalistas": []
 }
