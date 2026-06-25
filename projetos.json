@@ -62,6 +62,15 @@
         "video": "https://youtu.be/tFJyzDRjBqo",
         "thumb": "thumbs/geana_almeida.png",
         "descricao": "Web site de ecommerce de roupas e acessorios sofisticado"
+    },
+    {
+        "id": 8,
+        "nome": "Cesar Augusto Alves",
+        "projeto": "Alpha Flix",
+        "github": "https://cesar4lves.github.io/Aula-4-CSS-Alpha/",
+        "video": "",
+        "thumb": "thumbs/cesar_augusto.png",
+        "descricao": "AlphaFlix é uma landing page inspirada em plataformas de streaming"
     }          
 ],
   "finalistas": []
