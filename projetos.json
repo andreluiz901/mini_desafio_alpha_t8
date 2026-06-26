@@ -100,6 +100,22 @@
         "descricao": "Uma loja de roupas estilo street."
     }            
 ],
-  "finalistas": []
+  "finalistas": [
+    {
+        "nome":"Geana Mossal Nunes de Almeida",
+        "projeto":"Ecommerce loja de roupa",
+        "posicao":1
+    },
+    {
+        "nome":"Marcos Vinicius Araujo Silva",
+        "projeto":"Dragon House",
+        "posicao":2
+    },
+    {
+        "nome":"André Luiz",
+        "projeto":"Portfolio de Fotógrafo",
+        "posicao":3
+    }
+  ]
 }
 
